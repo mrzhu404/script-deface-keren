@@ -1,0 +1,107 @@
+<!DOCTYPE html> 
+  <html>
+  <head> 
+  <meta charset="UTF8">
+  <meta name="viewport" content="width=1000, user-scalable=no">
+  <meta name="theme-color" content="red">
+  <link href="https://fonts.googleapis.com/css?family=Oxanium|Rye|Trade+Winds|Bahiana|Englebert|Underdog|Frijole&display=swap" rel="stylesheet">
+  <title> Hacked By MrZhu404</title>
+  </head>
+  <center> 
+  <script> function play(){ var audio = document.getElementById('lagu'); audio.play(); } function liat(){ document.getElementById('galiat').style.visibility='visible'; } 
+  </script>
+  <style>
+    body{
+      background-image: url(https://wallpaperaccess.com/full/336598.jpg);
+      no-repeat  fixed;
+      background-size:100% 100%;
+    }
+   .kotak{
+    border: 5px red double;
+    background-color: black;
+    height: 1370px;
+    width: 850px;
+    box-shadow: 0 0 10px 0 #FF2300 inset, 0 0 20px 2px #FF2300;
+    }
+   .kotak2{
+    width: 360px;
+    height: 353px;
+    border: 1px red solid;
+    box-shadow: 0 0 10px 0 #FF2300 inset, 0 0 20px 2px #FF2300;
+    }
+    .lagunya{
+    border: 2px solid #FF2300;
+    border-left: 1px solid #FF2300;
+    border-right: 1px solid #FF2300;
+    box-shadow: 0 0 10px 0 #FF2300 inset, 0 0 20px 2px #FF2300;
+    color: white; 
+    font-size: 24pt;
+    margin: 5px;
+    background-color: transparent;
+    padding: 5px;
+    font-family: Underdog;
+    }
+      h1 {
+    color: #162929;
+    font-size: 60px;
+    font-family: Oxanium;
+    margin: 1px auto;
+    text-align:center;
+    text-transform:uppercase;
+        }
+    .neon {
+    color: red;
+    text-shadow: 0 0 5px white, 0 0 10px white, 0 0 20px white, 0 0 40px white;
+    }
+    </style>
+    <br><br><br><br>
+    <div class="kotak">
+    <center><br><br><div class="kotak2">
+  <img src="https://www.dreadcentral.com/wp-content/uploads/2015/12/Dread-Central-Stag-Knight-logo.jpg" width=350 height=350 alt="Deepweb Is Real !!!"></div><br><hr color="red"><hr color="white"><hr color="red"><br>
+  </center>
+    <center>
+    <font size="6px" face="Oxanium" color="red" style="border:3px white solid; box-shadow: 0 0 10px 0 white inset, 0 0 7px 2px white;">//</font><font size="6px" face="Oxanium" color="white" style="border:4px red solid; box-shadow: 0 0 10px 0 #FF2300 inset, 0 0 20px 2px #FF2300;"> HACKED BY MRZHU404 </font><font size="6px" face="Oxanium" color="red" style="border:3px white solid; box-shadow: 0 0 10px 0 white inset, 0 0 7px 2px white;">\\
+    </font><br><br>
+    <hr color="red"><hr color="white"><hr color="red"><br>
+    </center>
+    <p>
+    <marquee direction="up"  scrollamount="2">
+    <font font color="white" face="Underdog" size="5">
+    <center>
+     "Di waktu yang sunyi ini,"<br>
+     <hr color="red"></hr>
+     "Akan ku jadikan detik-detik hitam,"<br>
+     <hr color="red"></hr>
+     "Aku ingin melunaskan dendamku,"<br>
+     <hr color="red"></hr>
+     "Mengusaikan riwayatmu dengan kejam,"<br>
+     <hr color="red"></hr>
+     "Melihat darahmu mengalir laju,"<br>
+     <hr color="red"></hr>
+     "Membasahi sekujur tubuh kaku,"<br>
+     <hr color="red"></hr>
+     "Kini, telah berakhir deritaku,"<br>
+     <hr color="red"></hr>
+     "Puas sudah hatiku,"<br>
+     <hr color="red"></hr>
+     "Melunaskan dendamku yang sudah lama terbuku."<br>
+     <hr color="red">
+     </center>
+     </font>
+    </marquee>
+    </p>
+    <p><center><br><br><hr color="red"><hr color="white"><hr color="red">
+      <button class="lagunya" onclick="play();liat();"><< HIHIHIHI >></button><audio id="lagu" src="https://a.top4top.io/m_1569f6f1m1.mp3"></audio>
+    <hr color="red"><hr color="white"><hr color="red">
+    <br>
+     <marquee scrollamount="9" direction="left" width="800" style="border: 3px red solid; box-shadow: 0 0 10px 0 #FF2300 inset, 0 0 20px 2px #FF2300;"><font color="white" face="Oxanium" size="5" >Greetz To : GresiXploiter ~ Galaxy Xploiter Team ~ Cerme Cyber007 ~ S3G37 GH0S7</font></marquee>
+    <br>
+    
+    </div>
+  </center>
+ </body>
+     
+
+
+            
+</html>
